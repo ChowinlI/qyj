@@ -1,0 +1,25 @@
+.login {
+  width: 100%;
+  height: 100%;
+  /*background-image: url('../../assets/images/login-bg.jpg');*/
+  background-color: #cdcdcd;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.login-container {
+  position: absolute;
+  top: 50%;
+  width: 300px;
+  right: 300px;
+  transform: translateY(-60%);
+}
+.login-container .form-container {
+  padding: 10px 0 0;
+}
+.login-container .login-tip {
+  font-size: 10px;
+  text-align: center;
+  color: #c3c3c3;
+}
+/*# sourceMappingURL=login.css.map */
